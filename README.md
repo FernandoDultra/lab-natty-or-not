@@ -1,8 +1,5 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
