@@ -1,7 +1,7 @@
 # Criando uma música tema para filme em 5 minutos
 
 ## 📒 Descrição
-Criei com o apoio total da inteligência artificial uma musúca sobre o filme Guerra dos mundos, de Steven Spilberg (2005).
+Criei com o apoio total da inteligência artificial, uma música sobre o filme: Guerra dos mundos de Steven Spilberg (2005).
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para criação da Letra
